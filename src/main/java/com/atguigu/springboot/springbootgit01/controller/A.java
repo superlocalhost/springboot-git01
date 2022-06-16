@@ -14,5 +14,6 @@ public class A {
         System.out.println("hot-fix commit01");
         System.out.println("push test!");
         System.out.println("pull test!");
+        System.out.println("pull clone test!");
     }
 }
